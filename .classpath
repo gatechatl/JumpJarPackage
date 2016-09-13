@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/tshaw/workspace_JumpPackage/MaSpecTOR/lib/cdk-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tshaw/workspace_JumpPackage/MaSpecTOR/lib/commons-math3-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tshaw/workspace_JumpPackage/MaSpecTOR/lib/MetFrag_07112014.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tshaw/workspace_JumpPackage/MaSpecTOR/lib/jrap-ext-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tshaw/workspace_JumpPackage/MaSpecTOR/lib/xerces.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
